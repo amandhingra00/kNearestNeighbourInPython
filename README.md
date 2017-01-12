@@ -29,7 +29,7 @@ Steps to Run the Program:
 
 Other Specifications:
 
-IDE Used: Sublime Text 3
+Editor Used: Sublime Text 3
 
 Relevant PC Specifications:
 Intel i5(4th Gen)
